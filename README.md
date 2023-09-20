@@ -1,4 +1,4 @@
-# Power-Bi-Ecommerce-
+# Power-Bi-Ecommerce
 Ecommerce Dashboard 
 
 # Dashbaord
